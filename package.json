@@ -1,6 +1,6 @@
 {
   "name": "cap-web-components",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Archetype to build web components with legacy browser support",
   "main": "index.js",
   "scripts": {
